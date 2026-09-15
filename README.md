@@ -4,11 +4,11 @@
 
 ---
 
-## 🌱 Project Background & Shoutout
+## 🌱 Project Background
 
 I first discovered this dataset during one of my university subject assessments. While the original assignment gave me a first look at the data, it sparked my genuine curiosity about how the Pacific Ocean has actually changed over the decades. 
 
-This repository is my **independent self-continuation** of that university project—taking the analysis much further with custom regional filtering, continuous monthly time-series resampling, interactive geographic mapping, and a focused investigation into 70+ years of ocean climate signals.
+This repository is my independent self-continuation of that university project, taking the analysis much further with custom regional filtering, continuous monthly time-series resampling, interactive geographic mapping, and a focused investigation into 70+ years of ocean climate signals.
 
 ---
 
