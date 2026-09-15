@@ -4,6 +4,14 @@
 
 ---
 
+## 🌱 Project Background & Shoutout
+
+I first discovered this dataset during one of my university subject assessments. While the original assignment gave me a first look at the data, it sparked my genuine curiosity about how the Pacific Ocean has actually changed over the decades. 
+
+This repository is my **independent self-continuation** of that university project—taking the analysis much further with custom regional filtering, continuous monthly time-series resampling, interactive geographic mapping, and a focused investigation into 70+ years of ocean climate signals.
+
+---
+
 ## 📖 The Story Behind the Data
 
 In the late 1940s, the bustling sardine canning industry along California's coast—immortalized in John Steinbeck's novel *Cannery Row*—suddenly collapsed. Millions of fish vanished almost overnight, devastating local coastal communities. 
@@ -74,7 +82,6 @@ calcofi-climate-change-tracker/
 ├── notebooks/
 │   └── calcofi_climate_change_tracker.ipynb         # Main step-by-step analysis notebook
 ├── output.png                                       # Exported seasonal temperature chart
-├── project_plan.md                                  # Original project roadmap
 ├── requirements.txt                                 # Pinned Python dependencies
 └── README.md                                        # Project overview & story
 ```
@@ -85,7 +92,7 @@ calcofi-climate-change-tracker/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/calcofi-climate-change-tracker.git
+git clone https://github.com/linnthantsoewai/calcofi-climate-change-tracker.git
 cd calcofi-climate-change-tracker
 ```
 
